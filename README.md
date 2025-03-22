@@ -1,8 +1,8 @@
 # F1-Simulation
 
-A MATLAB-based simulation that models the movement of a Formula 1 car on a track, with and without aerodynamic resistance. The simulation includes dynamic visualization of the car's trajectory and real-time tangent line calculations to show the direction of motion at each point.
+A MATLAB-based simulation that models the movement of a Formula 1 car on a track, with aerodynamic resistance.
 
-This project was developed in October 2022
+This project was developed in **October 2022**
 
 ## Features
 
