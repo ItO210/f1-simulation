@@ -1,4 +1,4 @@
-# F1-Simulation
+# F1 Trajectory Simulation
 
 A MATLAB-based simulation that models the movement of a Formula 1 car on a track, with aerodynamic resistance.
 
